@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/fonts/Font Awesome 5 Free-Regular-400.otf</file>
+        <file>resources/fonts/Font Awesome 5 Free-Solid-900.otf</file>
+        <file>resources/fonts/Nunito-Bold.ttf</file>
+        <file>resources/fonts/Nunito-Light.ttf</file>
+        <file>resources/fonts/Nunito-Regular.ttf</file>
+        <file>FontSystem.qml</file>
+        <file>CircleIcon.qml</file>
+        <file>IPInfoPage.qml</file>
+        <file>SearchIPAddressPage.qml</file>
+        <file>HomePage.qml</file>
+        <file>PrefsButton.qml</file>
+        <file>PrefsTextField.qml</file>
+        <file>resources/back-square.svg</file>
+        <file>resources/india.svg</file>
+        <file>resources/logo.png</file>
+        <file>resources/appIcon.png</file>
+    </qresource>
+</RCC>
